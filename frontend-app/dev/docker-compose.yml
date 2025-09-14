@@ -3,7 +3,7 @@ name: frontend-app-stack
 # Define services
 services:
   frontend-app:
-    image: abdabdelwahebslama/fontend-app
+    image: abdelwahebslama/fontend-app
     # build:
     #   context: .  # Build context is the current directory.
     #   dockerfile: Dockerfile  # Specify the Dockerfile to use
